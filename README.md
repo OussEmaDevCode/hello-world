@@ -6,3 +6,6 @@ creating a commit in your rep
          vs 
          
 forking your Rep adding commit then creating a PR than merging it
+
+# So dope
+imagine if everytime you eat fat your stomach go for a walk
