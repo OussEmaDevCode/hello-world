@@ -9,4 +9,6 @@ Some one spent 2 years working to create a chicken programming lunguage
 
 # imagine if you could double jump
 
-#Bff questions where friends can talk and chat usin questions
+# Bff questions where friends can talk and chat usin questions
+
+# slice it the app to slice pizza
